@@ -34,5 +34,5 @@ This repository documents the ongoing development of the segmentation pipeline:
 - **Dataset:** [BraTS Challenge Info](https://www.med.upenn.edu/cbica/brats-2021/)
 - **Frameworks:** Python, PyTorch(Scratch), NiBabel (for NIfTI files
 - **Colab links:**
-* **BraTS-UNet3d Colab link: [UNet3d](https://colab.research.google.com/drive/1OodJB_JVhr42KtSpJCytY2q6bkIE7lF4?authuser=1&usp=drive_open)**
-* **BraTS-ResUNet3d Colab link: [ResNet3d Hyper](https://colab.research.google.com/drive/1EjjpdgcD22ax8XBGNmqegFX9m26krqgI?authuser=1&usp=drive_open)**
+* **BraTS-UNet3d Colab link: [UNet3d](https://colab.research.google.com/drive/1OodJB_JVhr42KtSpJCytY2q6bkIE7lF4?usp=sharing)**
+* **BraTS-ResUNet3d Colab link: [ResNet3d Hyper](https://colab.research.google.com/drive/1EjjpdgcD22ax8XBGNmqegFX9m26krqgI?usp=sharing)**
